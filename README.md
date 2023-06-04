@@ -14,7 +14,7 @@
 1. Создан репозиторий на GitHub.
 Ссылка на созданный репозиторий https://github.com/nikita242114/conrol
 2. Составлена блок-схема алгоритма.
-Ссылка на файл  https://github.com/.drawio
+Ссылка на файл  https://github.com/nikita242114/conrol/blob/main/BlockDiagramAlgorithm.drawio
 
 Блок-схема алгоритма формирования из имеющегося массива строк нового массива из строк, длина которых меньше, либо равна 3 символам
 
@@ -38,7 +38,7 @@
 Смотри и читай.
 
 4. Написана программа, решающую поставленную задачу, на языке программирования C#.
-Ссылка на файл 
+Ссылка на файл https://github.com/nikita242114/conrol/blob/main/task1/Program.cs
 
 Программа написана на языке программирования c# и включает в себя несколько методов (функций):
 
@@ -52,4 +52,4 @@ string[] DetermineLengthElementAndFormNewArrayStrings(string[] set)
 void OutputArrayStrings(string[] set)
 
 5. Использован контроль версий в работе над проектом.
-Смотри перечень коммитов. Ссылка: 
+Смотри перечень коммитов. Ссылка: https://github.com/nikita242114/conrol/graphs/commit-activity
